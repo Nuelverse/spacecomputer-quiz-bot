@@ -1,0 +1,14 @@
+# Local data files — do not commit
+quiz_data.db
+knowledge_base.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+*.jpg
